@@ -1,3 +1,11 @@
+/*!
+ * name: next-interface
+ * url: https://github.com/afeiship/next-interface
+ * version: 1.0.0
+ * date: 2019-08-18T14:54:50.947Z
+ * license: MIT
+ */
+
 (function() {
   var global = global || this || window || Function('return this')();
   var nx = global.nx || require('next-js-core2');
@@ -33,3 +41,5 @@
     module.exports = NxInterface;
   }
 })();
+
+//# sourceMappingURL=next-interface.js.map
